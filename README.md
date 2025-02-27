@@ -28,7 +28,7 @@ Este é um projeto de gerenciamento de podcasts desenvolvido utilizando Node.js 
    ```
 5. Inicie o servidor:
    ```bash
-"start:dev": "tsx --env-file=.env src/server.ts",
+start:dev": "tsx --env-file=.env src/server.ts,
    ```
 
 ## Uso
@@ -45,17 +45,10 @@ O servidor estará rodando em `http://localhost:3636`. Você pode fazer requisi�
 **GET /episode**
 - Filtra episódios com base em critérios passados na query string.
 
-<<<<<<< HEAD
-=======
-## Teste no Postman
-
 A imagem abaixo mostra um exemplo de requisição feita no Postman:
-
-![Image](https://github.com/user-attachments/assets/511f4ce0-d3af-4a2f-bc29-10b948d540aa)
-
+![Image](https://github.com/user-attachments/assets/38aab5c8-38e4-4bc7-ba41-1a7046dcb4df)
 
 
->>>>>>> 70ba1bcf2eab9fd32254f035f827940165db2918
 ## Melhorias Futuras
 
 - Implementar Express.js para melhor gerenciamento de rotas.
