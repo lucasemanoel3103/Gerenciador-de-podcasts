@@ -49,7 +49,7 @@ O servidor estará rodando em `http://localhost:3636`. Você pode fazer requisi�
 
 A imagem abaixo mostra um exemplo de requisição feita no Postman:
 
-![Teste no Postman](docs/images/Postman list.png)
+![Image](https://github.com/user-attachments/assets/20ee2090-6857-4952-9322-44fc00fca197)
 
 
 
