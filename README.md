@@ -60,7 +60,9 @@ A imagem abaixo mostra um exemplo de requisição feita no Postman:
 </p>
 
 
+![Postman-filter](https://github.com/user-attachments/assets/7b38bda2-412d-462d-a38c-b6f42bdb6c2b)
 
+![Postman-list](https://github.com/user-attachments/assets/a98dc155-3d50-462b-82ce-6d2358ebfda1)
 
 >>>>>>> 70ba1bcf2eab9fd32254f035f827940165db2918
 ## Melhorias Futuras
