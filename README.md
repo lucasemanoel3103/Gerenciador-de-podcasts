@@ -45,6 +45,14 @@ O servidor estará rodando em `http://localhost:3636`. Você pode fazer requisi�
 **GET /episode**
 - Filtra episódios com base em critérios passados na query string.
 
+## Teste no Postman
+
+A imagem abaixo mostra um exemplo de requisição feita no Postman:
+
+![Teste no Postman](docs/images/Postman list.png)
+
+
+
 ## Melhorias Futuras
 
 - Implementar Express.js para melhor gerenciamento de rotas.
