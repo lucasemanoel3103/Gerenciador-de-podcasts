@@ -28,7 +28,7 @@ Este é um projeto de gerenciamento de podcasts desenvolvido utilizando Node.js 
    ```
 5. Inicie o servidor:
    ```bash
-"start:dev": "tsx --env-file=.env src/server.ts",
+start:dev": "tsx --env-file=.env src/server.ts,
    ```
 
 ## Uso
