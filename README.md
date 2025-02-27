@@ -46,8 +46,10 @@ O servidor estará rodando em `http://localhost:3636`. Você pode fazer requisi�
 - Filtra episódios com base em critérios passados na query string.
 
 A imagem abaixo mostra um exemplo de requisição feita no Postman:
-(assets/to-readme/postman-list.png)
-(assets/to-readme/postman-filter.png)
+
+![Texto alternativo 1](assets/to-readme/postman-list.png)
+![Texto alternativo 2](assets/to-readme/postman-filter.png)
+
 
 
 
