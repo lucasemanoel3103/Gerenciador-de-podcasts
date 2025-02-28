@@ -28,7 +28,7 @@ Este é um projeto de gerenciamento de podcasts desenvolvido utilizando Node.js 
    ```
 5. Inicie o servidor:
    ```bash
-start:dev": "tsx --env-file=.env src/server.ts,
+   src/server.ts
    ```
 
 ## Uso
@@ -46,7 +46,11 @@ O servidor estará rodando em `http://localhost:3636`. Você pode fazer requisi�
 - Filtra episódios com base em critérios passados na query string.
 
 A imagem abaixo mostra um exemplo de requisição feita no Postman:
-![Image](https://github.com/user-attachments/assets/38aab5c8-38e4-4bc7-ba41-1a7046dcb4df)
+
+![Texto alternativo 1](assets/to-readme/Postman-list.png)
+![Texto alternativo 2](assets/to-readme/Postman-filter.png)
+
+
 
 
 ## Melhorias Futuras
