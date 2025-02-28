@@ -47,8 +47,8 @@ O servidor estará rodando em `http://localhost:3636`. Você pode fazer requisi�
 
 A imagem abaixo mostra um exemplo de requisição feita no Postman:
 
-<img src="assets/Postman-list.png" alt="Texto alternativo 1" width="48%" />
-<img src="assets/Postman-filter.png" alt="Texto alternativo 2" width="48%" />
+<img src="src/assets/Postman-list.png" alt="Texto alternativo 1" width="48%" />
+<img src="src/assets/Postman-filter.png" alt="Texto alternativo 2" width="48%" />
 
 
 
