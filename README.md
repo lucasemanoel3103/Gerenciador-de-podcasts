@@ -45,7 +45,7 @@ O servidor estará rodando em `http://localhost:3636`. Você pode fazer requisi�
 **GET /episode**
 - Filtra episódios com base em critérios passados na query string.
 
-A imagem abaixo mostra exemplos de requisições feitas no Postman:
+As imagens abaixo mostram exemplos de requisições feitas no Postman:
 
 <img src="src/assets/Postman-list.png" alt="Texto alternativo 1" width="48%" />
 <img src="src/assets/Postman-filter.png" alt="Texto alternativo 2" width="48%" />
